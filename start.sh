@@ -243,3 +243,6 @@ sudo pip install scapy
 
 BLUE "Installing dos2unix..."
 sudo apt install libcompress-raw-lzma-perl
+
+BLUE "Installing peek..."
+sudo apt install peek
