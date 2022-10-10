@@ -245,7 +245,10 @@ BLUE "Installing dos2unix..."
 sudo apt install libcompress-raw-lzma-perl
 
 BLUE "Installing peek..."
-sudo apt install peek
+sudo apt install -y peek
+
+BLUE "Installing kazam..."
+sudo apt install -y kazam
 
 BLUE "Installing shutter..."
-sudo apt-get install shutter
+sudo apt-get install -y shutter
