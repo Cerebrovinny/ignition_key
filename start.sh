@@ -246,3 +246,6 @@ sudo apt install libcompress-raw-lzma-perl
 
 BLUE "Installing peek..."
 sudo apt install peek
+
+BLUE "Installing shutter..."
+sudo apt-get install shutter
